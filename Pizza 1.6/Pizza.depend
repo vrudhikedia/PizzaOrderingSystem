@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1663996576 source:d:\vrudhi kedia\nmims mpstme\semester 3\object oriented programing\project\pizza\main.cpp
+	<iostream>
+	"filehandle.h"
+
+1663996816 d:\vrudhi kedia\nmims mpstme\semester 3\object oriented programing\project\pizza\filehandle.h
+	<iostream>
+	<fstream>
+	<string.h>
+
+1666363794 source:d:\vrudhi kedia\nmims mpstme\semester 3\object oriented programing\project\pizza 1.2\main.cpp
+	<iostream>
+	<cstdlib>
+	"filehandle.h"
+
+1666363868 d:\vrudhi kedia\nmims mpstme\semester 3\object oriented programing\project\pizza 1.2\filehandle.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string.h>
+
